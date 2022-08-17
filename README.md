@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmoymahato&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoymahato" /> </p>
 
-- 🖥️ Currently working at **Wipro**
+- 🖥️ Currently working at **Wipro Limited**
 
 - 🌱 Learning **DataStructures & Algorithms**
 
